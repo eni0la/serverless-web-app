@@ -2,7 +2,7 @@ Deploying a Serverless Web Application on AWS using S3, Lambda, API Gateway, Dyn
 
 
 
-OVERVIEW
+Overview
 
 
 
@@ -22,7 +22,7 @@ Amazon CloudFront – Content delivery network for performance
 
 
 
-FEATURES
+Features
 
 * Add student data (POST request)
 * Retrieve all student data (GET request)
@@ -34,7 +34,7 @@ FEATURES
 
 
 
-STEP-BY-STEP IMPLEMENTATION
+Step-by-Step Implementation
 
 1\. Created a table in DynamoDB named:
 
