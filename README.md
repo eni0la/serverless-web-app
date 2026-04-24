@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Deploying a Serverless Web Application on AWS using S3, Lambda, API Gateway, DynamoDB, and CloudFront
 
 
