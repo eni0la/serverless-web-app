@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Deploying a Serverless Web Application on AWS using S3, Lambda, API Gateway, DynamoDB, and CloudFront
 
 
@@ -224,3 +225,6 @@ Updating bucket policy
 
 Setting default root object (index.html)
 
+=======
+# serverless-web-app
+>>>>>>> d0c37b9bf0aa2863811a098ebc7dd62af869e92d
